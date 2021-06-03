@@ -1,0 +1,4 @@
+.rdg-gantt div.rdg-group-row > div.rdg-cell:nth-child(1) {
+  width: 280px;
+  z-index: 2;
+}
